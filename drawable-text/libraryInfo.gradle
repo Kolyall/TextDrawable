@@ -1,18 +1,18 @@
 ext {
     bintrayRepo = 'maven'//name of Repo on https://bintray.com/nickunuchek
-    bintrayName = 'FlycoTabLayout_Lib'//name of project on https://bintray.com/nickunuchek/maven
+    bintrayName = 'drawable-text'//name of project on https://bintray.com/nickunuchek/maven
 
     publishedGroupId = 'com.github.kolyall'//only this
-    artifact = 'FlycoTabLayout_Lib'//should be the same as module name
-    artifactLocal = 'FlycoTabLayout_Lib'//should be the same as module name
+    artifact = 'drawable-text'//should be the same as module name
+    artifactLocal = 'drawable-text'//should be the same as module name
     libraryVersion = appVersionName
 
-    libraryName = 'FlycoTabLayout_Lib'
+    libraryName = 'drawable-text'
 
-    libraryDescription = 'A wrapper for rxvksdk on Android'
+    libraryDescription = 'A wrapper for TextDrawable on Android'
 
-    siteUrl = 'https://github.com/Kolyall/FlycoTabLayout'
-    gitUrl = 'https://github.com/Kolyall/FlycoTabLayout.git'
+    siteUrl = 'https://github.com/Kolyall/TextDrawable'
+    gitUrl = 'https://github.com/Kolyall/TextDrawable.git'
 
     developerId = 'nickunuchek'
     developerName = 'Nick Unuchek'
